@@ -2,6 +2,9 @@
 
 ArchMind is an AI-powered platform that converts product requirements into comprehensive system designs.
 
+## 🌐 Live Demo
+You can view the fully deployed application online here: **[ArchMind Live on Vercel](https://archmind-39iv2cndx-saivinay983s-projects.vercel.app)**
+
 ## 🚀 How to Run
 
 To run ArchMind and avoid conflicts with other projects:
